@@ -1,0 +1,9 @@
+{
+	"name": "AmbuDataFactoryTest2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cddfcb04-25f8-4f78-a7ef-f428c10a47a9",
+		"tenantId": "824e474e-ad0a-4e38-96bb-3240ec4a6c79"
+	}
+}
